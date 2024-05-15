@@ -1,0 +1,67 @@
+<Titulos>
+    <Titulo>
+        <Protocolo>1001</Protocolo>
+        <NomeDevedor>Maria Silva</NomeDevedor>
+        <DocumentoDevedor>123.456.789-10</DocumentoDevedor>
+        <NomeApresentante>João Santos</NomeApresentante>
+        <DocumentoApresentante>987.654.321-00</DocumentoApresentante>
+        <NomeCredor>Carlos Oliveira</NomeCredor>
+        <DocumentoCredor>111.222.333-44</DocumentoCredor>
+        <NumeroTitulo>123456789</NumeroTitulo>
+        <ValorTitulo>1500.00</ValorTitulo>
+        <DataEmissao>2024-05-10</DataEmissao>
+        <EspecieTitulo>Cheque</EspecieTitulo>
+    </Titulo>
+    <Titulo>
+        <Protocolo>1002</Protocolo>
+        <NomeDevedor>João Pereira</NomeDevedor>
+        <DocumentoDevedor>987.654.321-00</DocumentoDevedor>
+        <NomeApresentante>Maria Santos</NomeApresentante>
+        <DocumentoApresentante>123.456.789-10</DocumentoApresentante>
+        <NomeCredor>Ana Oliveira</NomeCredor>
+        <DocumentoCredor>111.222.333-44</DocumentoCredor>
+        <NumeroTitulo>987654321</NumeroTitulo>
+        <ValorTitulo>2000.00</ValorTitulo>
+        <DataEmissao>2024-05-11</DataEmissao>
+        <EspecieTitulo>Duplicata</EspecieTitulo>
+    </Titulo>
+    <Titulo>
+        <Protocolo>1003</Protocolo>
+        <NomeDevedor>Paulo Souza</NomeDevedor>
+        <DocumentoDevedor>333.444.555-66</DocumentoDevedor>
+        <NomeApresentante>Luisa Ferreira</NomeApresentante>
+        <DocumentoApresentante>555.666.777-88</DocumentoApresentante>
+        <NomeCredor>Carlos Oliveira</NomeCredor>
+        <DocumentoCredor>111.222.333-44</DocumentoCredor>
+        <NumeroTitulo>456789123</NumeroTitulo>
+        <ValorTitulo>3000.00</ValorTitulo>
+        <DataEmissao>2024-05-12</DataEmissao>
+        <EspecieTitulo>Nota Promissória</EspecieTitulo>
+    </Titulo>
+    <Titulo>
+        <Protocolo>1004</Protocolo>
+        <NomeDevedor>Lucas Oliveira</NomeDevedor>
+        <DocumentoDevedor>444.555.666-77</DocumentoDevedor>
+        <NomeApresentante>Maria Santos</NomeApresentante>
+        <DocumentoApresentante>123.456.789-10</DocumentoApresentante>
+        <NomeCredor>João Silva</NomeCredor>
+        <DocumentoCredor>222.333.444-55</DocumentoCredor>
+        <NumeroTitulo>789123456</NumeroTitulo>
+        <ValorTitulo>2500.00</ValorTitulo>
+        <DataEmissao>2024-05-13</DataEmissao>
+        <EspecieTitulo>Boleto</EspecieTitulo>
+    </Titulo>
+    <Titulo>
+        <Protocolo>1005</Protocolo>
+        <NomeDevedor>Mariana Costa</NomeDevedor>
+        <DocumentoDevedor>777.888.999-00</DocumentoDevedor>
+        <NomeApresentante>Paulo Souza</NomeApresentante>
+        <DocumentoApresentante>333.444.555-66</DocumentoApresentante>
+        <NomeCredor>Luisa Ferreira</NomeCredor>
+        <DocumentoCredor>555.666.777-88</DocumentoCredor>
+        <NumeroTitulo>987654321</NumeroTitulo>
+        <ValorTitulo>1800.00</ValorTitulo>
+        <DataEmissao>2024-05-14</DataEmissao>
+        <EspecieTitulo>Cheque</EspecieTitulo>
+    </Titulo>
+</Titulos>
